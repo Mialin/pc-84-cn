@@ -124,24 +124,24 @@
 		<div class="promo-group cf">
 			<div class="wrapper">
 				<div class="left_two">
-				 <a href="brand.php?id=738" target="_blank">
-				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_63.jpg" width="386">
+				 <a href="brand.php?id=1610" target="_blank">
+				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_68.jpg" width="386">
 				 </a>
-				 <a href="brand.php?id=58" target="_blank">
-				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_64.jpg" width="386" class="btm-img">
+				 <a href="stack.php?regular=98" target="_blank">
+				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_69.jpg" width="386" class="btm-img">
 				 </a> 
 				</div>
 				<div class="mid_one">
-				 <a href="stack.php?regular=94" target="_blank">	
-				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_65.jpg" width="386">
+				 <a href="brand.php?id=767" target="_blank">	
+				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_70.jpg" width="386">
 				 </a> 
 				</div>
 				<div class="right_two">
-				 <a href="brand.php?id=803" target="_blank">
-				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_66.jpg" width="386">
+				 <a href="search.php?keywords=%E5%AE%B6%E4%B9%A1%E5%91%B3%20%E5%81%A5%E5%BA%B7%E9%9D%9E%E6%B2%B9%E7%82%B8%E6%9C%89%E6%9C%BA" target="_blank">
+				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_71.jpg" width="386">
 				 </a>
-				 <a href="brand.php?id=975" target="_blank"> 
-				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_67.jpg" width="386" class="btm-img">
+				 <a href="stack.php?regular=97" target="_blank"> 
+				  <img src="http://cdn.yamibuy.com/images/cn/index/a_indx_72.jpg" width="386" class="btm-img">
 				 </a> 
 				</div>
 			</div>
@@ -159,13 +159,13 @@
 					
 						{if $i eq 2 }
 							<div class="lg-box">
-							 <a href="brand.php?id=1500" target="_blank">
-							  <img src="http://cdn.yamibuy.com/images/cn/index/b_rec_indx_1500.jpg" width="400">
+							 <a href="brand.php?id=1806" target="_blank">
+							  <img src="http://cdn.yamibuy.com/images/cn/index/b_rec_indx_1806.jpg" width="400">
 							 </a> 
 							</div>
 							<div class="lg-box">
-							 <a href="stack.php?regular=96" target="_blank">
-							  <img src="http://cdn.yamibuy.com/images/cn/index/b_rec_indx_1511_2.jpg" width="400">
+							 <a href="search.php?keywords=%20Kracie%20Himawari%E5%90%91%E6%97%A5%E8%91%B5%20%E7%BE%8E%E5%8F%91%E7%B3%BB%E5%88%97" target="_blank">
+							  <img src="http://cdn.yamibuy.com/images/cn/index/s_rec_indx_KRACIE.jpg" width="400">
 							 </a>
 							</div>
 						{/if}
@@ -405,28 +405,28 @@
 						
 						<div class="box-cont">
 							<div class="lg-box tall">
-							 <a href="brand.php?id=727" target="_blank">	
-							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b727.jpg" width="400">
+							 <a href="brand.php?id=572" target="_blank">	
+							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b572.jpg" width="400">
 							 </a>	
 							</div>
 							<div class="sm-box tall">
-							 <a href="brand.php?id=1597" target="_blank">
-							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b1597.jpg" width="200">
+							 <a href="brand.php?id=581" target="_blank">
+							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b581.jpg" width="200">
 							 </a>
 							</div>
 							<div class="sm-box tall">
-							 <a href="brand.php?id=1779" target="_blank">
-							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b1779.jpg" width="200">
+							 <a href="brand.php?id=675" target="_blank">
+							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b675.jpg" width="200">
 							 </a>
 							</div>
 							<div class="sm-box tall">
-							 <a href="brand.php?id=1247" target="_blank">
-							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b1247.jpg" width="200">
+							 <a href="brand.php?id=506" target="_blank">
+							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b506.jpg" width="200">
 							 </a>
 							</div>
 							<div class="sm-box tall rb">
-							 <a href="brand.php?id=1151" target="_blank">
-							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b1151.jpg" width="200">
+							 <a href="brand.php?id=1000" target="_blank">
+							  <img src="http://cdn.yamibuy.com/images/cn/index/g_indx_b1000.jpg" width="200">
 							 </a>
 							</div>
 							
