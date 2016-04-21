@@ -348,8 +348,8 @@
 			<div class="popup-container">
 				<div class="popup-content share-popup cf">
 					<div class="invi-head">
-						<h1>分享给朋友</h1>
-						<p>登陆后使用此链接不仅可以推荐好物，好友通过链接注册亚米即可获取300积分($3)，好友成功完成首次购买后，你也能获得500亚米积分($5)哦</p>
+						<p class="invi-title">分享给朋友</p>
+						<p class="invi-des">登陆后使用此链接不仅可以推荐好物，好友通过链接注册亚米即可获取300积分($3)，好友成功完成首次购买后，你也能获得500亚米积分($5)哦</p>
 					</div>		
 					<!--mail info-->			
 					<div class="invi-cont">
